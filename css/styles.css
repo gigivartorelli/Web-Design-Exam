@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(253, 253, 248);
+    color: black;
+}
+
+span, h2{
+    color: plum;
+}
+
+a{
+    background-color: plum;
+    color: whitesmoke;
+    border-radius: 15px;
+    padding: 7px;
+}
+
+header, footer{
+    border-radius: 20px;
+    background-color: rgb(255, 235, 239);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+header{
+    height: 130px;
+    width: 95%;
+}
+
+footer{
+    height: 50px;
+    width: 95%;
+}
+
+section{
+    background-color: rgb(235, 255, 249);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    height: 230px;
+    width: 90%;
+}
